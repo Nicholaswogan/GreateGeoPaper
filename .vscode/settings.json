@@ -1,0 +1,8 @@
+{
+  "doxdocgen.generic.boolReturnsTrueFalse": false,
+  "latex-workshop.latex.outDir": "output",
+  "editor.wordWrap": "on",
+  "cSpell.words": [
+    "Urbain"
+  ],
+}
